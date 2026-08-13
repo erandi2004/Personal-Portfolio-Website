@@ -1,18 +1,4 @@
-/**
- * Professional Portfolio JavaScript Core Engine
- * Author: Alex Morgan
- * Features:
- * - Preloader Screen Fade Out
- * - Animated Interactive Particle Canvas Background
- * - Sticky Navbar & Mobile Hamburger Menu
- * - Hero Typing Effect
- * - Pure JS Scroll Reveal Observer
- * - Counter Stats Animation
- * - Animated Skill Progress Bars
- * - Project Category Filtering
- * - Form Validation with Live Feedback
- * - Back to Top Button
- */
+
 
 document.addEventListener('DOMContentLoaded', () => {
   
