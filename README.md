@@ -9,7 +9,7 @@ A modern and responsive personal portfolio website created to present my educati
 
 ## Live Website
 
-[View My Portfolio](https://erandidewmini.github.io/portfolio/)
+[View My Portfolio](https://personal-portfolio-website-theta-lac.vercel.app/)
 
 ## About Me
 
@@ -109,7 +109,7 @@ To deploy your own version:
 - **Email:** [dewminierandi73@gmail.com](mailto:dewminierandi73@gmail.com)
 - **LinkedIn:** [Erandi Dewmini](https://www.linkedin.com/in/erandi-dewmini/)
 - **GitHub:** [erandi2004](https://github.com/erandi2004)
-- **Portfolio:** [erandidewmini.github.io/portfolio](https://erandidewmini.github.io/portfolio/)
+- **Portfolio:** [erandidewmini.github.io/portfolio](https://personal-portfolio-website-theta-lac.vercel.app/)
 
 ## Future Improvements
 
